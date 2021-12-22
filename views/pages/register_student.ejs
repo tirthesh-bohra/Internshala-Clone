@@ -95,7 +95,6 @@
   document.getElementById("signGoogle").addEventListener("click", loginWithGoogle);
   let error = document.getElementById("yy").innerText;
   if (error != "") {
-    error = JSON.parse(error).join("\n");
     alert(error);
     window.location.href = "/register_student"
   }
