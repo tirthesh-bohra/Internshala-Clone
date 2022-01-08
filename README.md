@@ -10,26 +10,7 @@ Blog_Link: [Clone of Internshala](https://medium.com/@agarwalr327/internshala-cl
 ## About Internshala:
 
 Internshala is an internship and online training platform, based in Gurgaon,
-India. Founded by Sarvesh Agrawal,an IIT Madras alumnus, in 2011, the website 
-helps students find internships with organisations in India.
-
-It is a free portal for both interns as well as employers. Currently, Internshala 
-has more than 3000000 student visits and 80000+ companies registered on its website.
-
-Internshala’s courses are largely divided into Summer Training and Winter Training. 
-Internshala offers different kinds of internships — full time, part-time, and work from home.
-One can find both paid and unpaid internships on Internshala.
-
-## Internshala — How it Works?
-
-A student has to register, create a decent profile, and apply for various internships listed on the portal. 
-Internshala is a free platform when it comes to applying or searching for internships but earns revenue through two mediums:
-
-Internshala — Internship and Training Sectors:
-
-Internshala provides internships in various sectors like web development, arts, management, 
-science, IT, data analysis, law, engineering, architecture, and many others. 
-The training courses include, but are not restricted to, Photography, Business Communication Skills, Computing, Excel, Design, etc.
+India, the website helps students find internships with organisations in India.
 
 ## Project Description:
 
@@ -66,10 +47,9 @@ task and the project was made by mutually collaborating via git, and the develop
 3. ES6
 4. Node.js
 5. Express.js
-4. MongoDB
-5. Mongoose
-6. MongoDB Atlas
-7. AWS for deployment
+6. Mongoose
+7. MongoDB Atlas
+8. AWS for deployment
 
 ## Glimpses of Website:
 
@@ -83,17 +63,6 @@ task and the project was made by mutually collaborating via git, and the develop
 ![dashboard](https://user-images.githubusercontent.com/91534659/147225066-7993edf9-196e-402e-8411-1331aa2d0cf3.png)
 
 ![footer](https://user-images.githubusercontent.com/91534659/147225104-73d640d8-bdc7-4842-a491-c51a88bd2def.png)
-
-
-## Frequently Asked Questions — FAQs::
-
-Q1). Is Internshala training free?
-
-Ans. No, Internshala training is not free but the cost is kept at a minimum so that everyone can avail it.
-
-Q2). Is it free to apply for internships on Internshala?
-
-Ans. Yes, applying for internships — paid or unpaid — is free on Internship.
 
 
 ## Foot Note: 
